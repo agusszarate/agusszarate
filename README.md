@@ -1,5 +1,7 @@
 ## Hey there! 👋  
 
+🚀 **Working on it, above and beyond!** 🚀  
+
 Everything you see here exists because I'm always looking for something to build.  
 I specialize in **web development** with a strong focus on **TypeScript, Node.js, and Python**.  
 🚀 Passionate about **scalability, clean code, and automation**.  
