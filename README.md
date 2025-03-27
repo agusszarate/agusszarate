@@ -12,3 +12,5 @@ I specialize in **web development** with a strong focus on **TypeScript, Node.js
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-zarate-dev/)   
+
+![Status](https://img.shields.io/badge/Status-Working%20on%20it%20🚀-blue?style=for-the-badge)
