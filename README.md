@@ -7,7 +7,7 @@ I specialize in **web development** with a strong focus on **TypeScript, Node.js
 ### 🛠️ Tech Stack  
 - **Frontend:** React, Next.js, Material UI  
 - **Backend:** Node.js, Express, Django REST Framework  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, SQLite  
 - **Tools & DevOps:** Docker, Git, OpenTelemetry, Azure  
 
 ### 📫 Connect with me  
