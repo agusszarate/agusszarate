@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey there! 👋  
 
-<!--
-**agusszarate/agusszarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everything you see here exists because I'm always looking for something to build.  
+I specialize in **web development** with a strong focus on **TypeScript, Node.js, and Python**.  
+🚀 Passionate about **scalability, clean code, and automation**.  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+- **Frontend:** React, Next.js, Material UI  
+- **Backend:** Node.js, Express, Django REST Framework  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools & DevOps:** Docker, Git, OpenTelemetry, Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-zarate-dev/)   
