@@ -44,12 +44,29 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 
 ---
 
-### 📂 Highlighted Repositories
+### 📂 Projects & Repositories
 
-* **[linux-server](https://github.com/agusszarate/linux-server):** Comprehensive configuration, scripts, and automation for my personal home server.
+**Applications & Systems**
 * **[gestor-telepase](https://github.com/agusszarate/gestor-telepase):** TypeScript-based management system for toll services.
-* **[algoritmos-estructura-de-datos-Buchwald](https://github.com/agusszarate/algoritmos-estructura-de-datos-Buchwald):** Advanced data structures and algorithms implemented in Go (FIUBA).
 * **[La-Previa-Trip-Planner](https://github.com/agusszarate/La-Previa-Trip-Planner):** Full-stack coordination tool for group travel.
+* **[TSGOLF](https://github.com/agusszarate/TSGOLF):** Application developed in TypeScript.
+* **[Batalla-Naval-TS](https://github.com/agusszarate/Batalla-Naval-TS):** Classic Battleship game logic implemented in TypeScript.
+
+**Landing Pages & Institutional Sites**
+* **[vezeta](https://github.com/agusszarate/vezeta):** TypeScript-based landing page.
+* **[javierzarate](https://github.com/agusszarate/javierzarate):** TypeScript-based professional presentation site and landing page.
+* **[colegio-de-martilleros](https://github.com/agusszarate/colegio-de-martilleros):** Institutional website built with TypeScript for the Auctioneers Association.
+* **[instituto-de-martilleros](https://github.com/agusszarate/instituto-de-martilleros):** Educational institutional website developed in TypeScript.
+* **[SofiaCostacaro-Portfolio](https://github.com/agusszarate/SofiaCostacaro-Portfolio):** Personal portfolio website built in TypeScript.
+
+**Academic (FIUBA & ITBA)**
+* **[algoritmos-estructura-de-datos-Buchwald](https://github.com/agusszarate/algoritmos-estructura-de-datos-Buchwald):** Advanced data structures and algorithms implemented in Go (FIUBA).
+* **[Fundamentos-de-programacion-guarna](https://github.com/agusszarate/Fundamentos-de-programacion-guarna):** Programming fundamentals exercises (FIUBA).
+* **[Introduccion-al-desarrollo-de-software-lanzillota](https://github.com/agusszarate/Introduccion-al-desarrollo-de-software-lanzillota):** Software development coursework (FIUBA).
+* **[Full-Stack-Program-ITBA](https://github.com/agusszarate/Full-Stack-Program-ITBA):** JavaScript projects from the ITBA Full-Stack program.
+
+**Infrastructure**
+* **[linux-server](https://github.com/agusszarate/linux-server):** Comprehensive configuration, scripts, and automation for my personal home server.
 
 ---
 
