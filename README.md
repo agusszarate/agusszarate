@@ -13,7 +13,7 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 - 🧠 **AI & Agentic Engineering:** I specialize in building autonomous AI agent platforms (including Insurtech solutions). I design and implement custom **MCP servers** to seamlessly bridge LLMs with robust software environments.
 - 💻 **Tech Focus:** High proficiency in **TypeScript**, Node.js, and Next.js. I leverage the full suite of modern AI coding assistants (Claude Code, GitHub Copilot, etc.) to accelerate the software development lifecycle.
 - ⚙️ **Infrastructure:** Deeply involved in Linux server administration, deployment processes, and home server orchestration.
-- 🚀 **Core Projects:** Currently maintaining `korus-platform`, `gestor-telepase`, and my personal infrastructure.
+- 🚀 **Core Projects:** Currently maintaining **gestor-telepase**, **linux-server**, and my personal infrastructure.
 
 ---
 
@@ -40,8 +40,8 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 
 ### 📊 GitHub Stats
 
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusszarate&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusszarate&layout=compact&theme=radium)
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusszarate&show_icons=true&theme=radium&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusszarate&layout=compact&theme=radium&cache_seconds=86400)
 
 ---
 
