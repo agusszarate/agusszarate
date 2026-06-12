@@ -55,8 +55,6 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 **Landing Pages & Institutional Sites**
 * **[vezeta](https://github.com/agusszarate/vezeta):** TypeScript-based landing page.
 * **[javierzarate](https://github.com/agusszarate/javierzarate):** TypeScript-based professional presentation site and landing page.
-* **[colegio-de-martilleros](https://github.com/agusszarate/colegio-de-martilleros):** Institutional website built with TypeScript for the Auctioneers Association.
-* **[instituto-de-martilleros](https://github.com/agusszarate/instituto-de-martilleros):** Educational institutional website developed in TypeScript.
 * **[SofiaCostacaro-Portfolio](https://github.com/agusszarate/SofiaCostacaro-Portfolio):** Personal portfolio website built in TypeScript.
 
 **Academic (FIUBA & ITBA)**
