@@ -38,12 +38,6 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 
 ---
 
-### 📊 GitHub Stats
-
-![Agustin's GitHub Streak](https://streak-stats.demolab.com/?user=agusszarate&theme=radium&hide_border=true)
-
----
-
 ### 📂 Projects & Repositories
 
 **Applications & Systems**
