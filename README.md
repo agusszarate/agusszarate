@@ -13,7 +13,7 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 - 🧠 **AI & Agentic Engineering:** I specialize in building autonomous AI agent platforms (including Insurtech solutions). I design and implement custom **MCP servers** to seamlessly bridge LLMs with robust software environments.
 - 💻 **Tech Focus:** High proficiency in **TypeScript**, Node.js, and Next.js. I leverage the full suite of modern AI coding assistants (Claude Code, GitHub Copilot, etc.) to accelerate the software development lifecycle.
 - ⚙️ **Infrastructure:** Deeply involved in Linux server administration, deployment processes, and home server orchestration.
-- 🚀 **Core Projects:** Currently maintaining **gestor-telepase**, **linux-server**, and my personal infrastructure.
+- 🚀 **Core Projects:** Currently maintaining **gestor-telepase**, **kick-vegaOS**, and my personal infrastructure.
 
 ---
 
@@ -42,23 +42,18 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 
 **Applications & Systems**
 * **[gestor-telepase](https://github.com/agusszarate/gestor-telepase):** TypeScript-based management system for toll services.
+* **[kick-vegaOS](https://github.com/agusszarate/kick-vegaOS):** Unofficial lightweight Kick player for Fire TV devices running Vega OS, built with React Native and Vega's native W3C Media player (Shaka Player).
 * **[La-Previa-Trip-Planner](https://github.com/agusszarate/La-Previa-Trip-Planner):** Full-stack coordination tool for group travel.
 * **[TSGOLF](https://github.com/agusszarate/TSGOLF):** Application developed in TypeScript.
 * **[Batalla-Naval-TS](https://github.com/agusszarate/Batalla-Naval-TS):** Classic Battleship game logic implemented in TypeScript.
-
-**Landing Pages & Institutional Sites**
-* **[vezeta](https://github.com/agusszarate/vezeta):** TypeScript-based landing page.
-* **[javierzarate](https://github.com/agusszarate/javierzarate):** TypeScript-based professional presentation site and landing page.
-* **[SofiaCostacaro-Portfolio](https://github.com/agusszarate/SofiaCostacaro-Portfolio):** Personal portfolio website built in TypeScript.
 
 **Academic (FIUBA & ITBA)**
 * **[algoritmos-estructura-de-datos-Buchwald](https://github.com/agusszarate/algoritmos-estructura-de-datos-Buchwald):** Advanced data structures and algorithms implemented in Go (FIUBA).
 * **[Fundamentos-de-programacion-guarna](https://github.com/agusszarate/Fundamentos-de-programacion-guarna):** Programming fundamentals exercises (FIUBA).
 * **[Introduccion-al-desarrollo-de-software-lanzillota](https://github.com/agusszarate/Introduccion-al-desarrollo-de-software-lanzillota):** Software development coursework (FIUBA).
+* **[TB025-Paradigmas-de-Programaci-n-curso-Essaya](https://github.com/agusszarate/TB025-Paradigmas-de-Programaci-n-curso-Essaya):** Programming Paradigms coursework, Essaya's course (FIUBA).
+* **[TB026-Ingenieria-de-Software-I-Leveroni](https://github.com/agusszarate/TB026-Ingenieria-de-Software-I-Leveroni):** Software Engineering I coursework in Smalltalk (Cuis), Leveroni's course (FIUBA).
 * **[Full-Stack-Program-ITBA](https://github.com/agusszarate/Full-Stack-Program-ITBA):** JavaScript projects from the ITBA Full-Stack program.
-
-**Infrastructure**
-* **[linux-server](https://github.com/agusszarate/linux-server):** Comprehensive configuration, scripts, and automation for my personal home server.
 
 ---
 
