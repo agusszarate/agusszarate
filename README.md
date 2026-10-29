@@ -52,7 +52,7 @@ I'm a software developer based in Buenos Aires, Argentina, currently working at 
 * **[Fundamentos-de-programacion-guarna](https://github.com/agusszarate/Fundamentos-de-programacion-guarna):** Programming fundamentals exercises (FIUBA).
 * **[Introduccion-al-desarrollo-de-software-lanzillota](https://github.com/agusszarate/Introduccion-al-desarrollo-de-software-lanzillota):** Software development coursework (FIUBA).
 * **[TB025-Paradigmas-de-Programaci-n-curso-Essaya](https://github.com/agusszarate/TB025-Paradigmas-de-Programaci-n-curso-Essaya):** Programming Paradigms coursework, Essaya's course (FIUBA).
-* **[TB026-Ingenieria-de-Software-I-Leveroni](https://github.com/agusszarate/TB026-Ingenieria-de-Software-I-Leveroni):** Software Engineering I coursework in Smalltalk (Cuis), Leveroni's course (FIUBA).
+* **[TA046-Ingenieria-de-Software-I-Leveroni](https://github.com/agusszarate/TA046-Ingenieria-de-Software-I-Leveroni):** Software Engineering I coursework in Smalltalk (Cuis), Leveroni's course (FIUBA).
 * **[Full-Stack-Program-ITBA](https://github.com/agusszarate/Full-Stack-Program-ITBA):** JavaScript projects from the ITBA Full-Stack program.
 
 ---
