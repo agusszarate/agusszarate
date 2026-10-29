@@ -1,62 +1,56 @@
-# Hi there 👋, I'm Agustin Zarate
+# Hi, I'm Agustin Zarate 👋
 
-### Full-Stack Developer & AI Software Engineer
+### Full-Stack Developer · AI agents & MCP
 
-I'm a software developer based in Buenos Aires, Argentina, currently working at **Teknedatalabs** and advancing my studies in Informatics Engineering (FIUBA). Within a company heavily known for its data expertise, I am part of the specialized Development team. My core focus is purely on software engineering: building scalable applications, integrating complex systems, and architecting AI-driven workflows.
-
----
-
-### 👨‍💻 About Me
-
-- 💼 **Work:** Software Developer at **Teknedatalabs**, focused on building AI-integrated software products and full-stack platforms.
-- 🎓 **Education:** Advanced Informatics Engineering student at FIUBA.
-- 🧠 **AI & Agentic Engineering:** I specialize in building autonomous AI agent platforms (including Insurtech solutions). I design and implement custom **MCP servers** to seamlessly bridge LLMs with robust software environments.
-- 💻 **Tech Focus:** High proficiency in **TypeScript**, Node.js, and Next.js. I leverage the full suite of modern AI coding assistants (Claude Code, GitHub Copilot, etc.) to accelerate the software development lifecycle.
-- ⚙️ **Infrastructure:** Deeply involved in Linux server administration, deployment processes, and home server orchestration.
-- 🚀 **Core Projects:** Currently maintaining **gestor-telepase**, **kick-vegaOS**, and my personal infrastructure.
+Full-stack developer at **Tekne Data Labs** in Buenos Aires, Argentina, and Informatics Engineering student at FIUBA.
+I build AI agent platforms, MCP servers and TypeScript apps.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💼 Work
 
-**AI Integration & Engineering:**
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-412991?style=for-the-badge&logo=probot&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agent_Platforms-000000?style=for-the-badge&logo=openai&logoColor=white)
-![AI Dev Tools](https://img.shields.io/badge/AI_Assisted_Dev-0058A9?style=for-the-badge&logo=githubcopilot&logoColor=white)
+At Tekne Data Labs I build AI agent platforms and custom **MCP servers** that connect LLMs with existing systems, plus the full-stack apps around them (TypeScript, Node.js, Next.js).
 
-**Languages:**
+---
+
+### 🚀 Featured projects
+
+* **[kick-vegaOS](https://github.com/agusszarate/kick-vegaOS):** Unofficial Kick player for Fire TV devices running Vega OS. React Native, TypeScript, Shaka Player.
+* **[gestor-telepase](https://github.com/agusszarate/gestor-telepase):** Web app to view and manage TelePASE toll invoices in Argentina. Next.js, Prisma, PostgreSQL, Docker. [Live](https://gestor-telepase.zarate.website)
+* **[La-Previa-Trip-Planner](https://github.com/agusszarate/La-Previa-Trip-Planner):** Trip planner for groups: shared expenses, accommodations and flight price alerts. Next.js, Supabase, Vercel. [Live](https://laprevia.zarate.website)
+
+---
+
+### 🛠️ Tech stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Infrastructure:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-412991?style=for-the-badge&logo=probot&logoColor=white)
 
 ---
 
-### 📂 Projects & Repositories
+### 🎓 Academic
 
-**Applications & Systems**
-* **[gestor-telepase](https://github.com/agusszarate/gestor-telepase):** TypeScript-based management system for toll services.
-* **[kick-vegaOS](https://github.com/agusszarate/kick-vegaOS):** Unofficial lightweight Kick player for Fire TV devices running Vega OS, built with React Native and Vega's native W3C Media player (Shaka Player).
-* **[La-Previa-Trip-Planner](https://github.com/agusszarate/La-Previa-Trip-Planner):** Full-stack coordination tool for group travel.
-* **[TSGOLF](https://github.com/agusszarate/TSGOLF):** Application developed in TypeScript.
-* **[Batalla-Naval-TS](https://github.com/agusszarate/Batalla-Naval-TS):** Classic Battleship game logic implemented in TypeScript.
+<details>
+<summary>FIUBA and ITBA coursework</summary>
 
-**Academic (FIUBA & ITBA)**
-* **[algoritmos-estructura-de-datos-Buchwald](https://github.com/agusszarate/algoritmos-estructura-de-datos-Buchwald):** Advanced data structures and algorithms implemented in Go (FIUBA).
-* **[Fundamentos-de-programacion-guarna](https://github.com/agusszarate/Fundamentos-de-programacion-guarna):** Programming fundamentals exercises (FIUBA).
-* **[Introduccion-al-desarrollo-de-software-lanzillota](https://github.com/agusszarate/Introduccion-al-desarrollo-de-software-lanzillota):** Software development coursework (FIUBA).
-* **[TB025-Paradigmas-de-Programaci-n-curso-Essaya](https://github.com/agusszarate/TB025-Paradigmas-de-Programaci-n-curso-Essaya):** Programming Paradigms coursework, Essaya's course (FIUBA).
-* **[TA046-Ingenieria-de-Software-I-Leveroni](https://github.com/agusszarate/TA046-Ingenieria-de-Software-I-Leveroni):** Software Engineering I coursework in Smalltalk (Cuis), Leveroni's course (FIUBA).
-* **[Full-Stack-Program-ITBA](https://github.com/agusszarate/Full-Stack-Program-ITBA):** JavaScript projects from the ITBA Full-Stack program.
+* **[TA046-Ingenieria-de-Software-I-Leveroni](https://github.com/agusszarate/TA046-Ingenieria-de-Software-I-Leveroni):** Software Engineering I, Smalltalk (Cuis). FIUBA.
+* **[TB025-Paradigmas-de-Programacion-Essaya](https://github.com/agusszarate/TB025-Paradigmas-de-Programacion-Essaya):** Programming Paradigms, Java (OOP) and Clojure (functional). FIUBA.
+* **[algoritmos-estructura-de-datos-Buchwald](https://github.com/agusszarate/algoritmos-estructura-de-datos-Buchwald):** Algorithms and Data Structures in Go. FIUBA.
+* **[Fundamentos-de-programacion-guarna](https://github.com/agusszarate/Fundamentos-de-programacion-guarna):** Programming Fundamentals in Python and C. FIUBA.
+* **[Introduccion-al-desarrollo-de-software-lanzillota](https://github.com/agusszarate/Introduccion-al-desarrollo-de-software-lanzillota):** Introduction to Software Development. FIUBA.
+* **[Full-Stack-Program-ITBA](https://github.com/agusszarate/Full-Stack-Program-ITBA):** Homebanking app with Django REST and Next.js. ITBA Full Stack program.
+
+</details>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agustin-zarate-dev)
